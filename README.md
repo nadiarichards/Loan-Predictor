@@ -16,7 +16,7 @@ Today there are various facial recognition softwares that exist, but what's trul
 * Tensorflow
 * CSS
 * HTML
-* Flask App
+* App Placeholder
 
 ## Machine Learning Model Details
 ---
