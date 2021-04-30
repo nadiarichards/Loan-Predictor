@@ -1,6 +1,5 @@
-# Emotion Predictor
+# Emotion Predictor Machine Learning Project
 
-# Full Stack Healthcare Value of Care Analysis Project
 By: _**Nadia Richards, Jake Azus, Noah Goldstein, Perry Reynolds**_
 ## Background
 ---
