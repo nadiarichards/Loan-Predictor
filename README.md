@@ -18,6 +18,12 @@ Today there are various facial recognition softwares that exist, but what's trul
 * HTML
 * Flask App
 
+## Machine Learning Model Details
+---
+* Developed a Convolutional Neural Network (CNN) to analyze emotions
+* Trained model using approximately 28,000 grayscale emotion images
+* Tested model using approximately 7,000 grayscale emotion images  
+
 ## Data Source
 ---
 **FER-2013, Learn Facial Expressions From an Image:** see dataset [HERE](https://www.kaggle.com/msambare/fer2013?select=train)
@@ -34,11 +40,11 @@ Today there are various facial recognition softwares that exist, but what's trul
 
 ## Summary of Findings
 ---
-#### Key Insights From Emotion Predictor
+#### Key Model Statistics From Emotion Predictor
 1. 
 2. 
 3. 
-#### Main Roadblocks While Developing Full Stack Application
+#### Main Roadblocks While Developing Emotion Predictor
 1. 
 2. 
 3. 
