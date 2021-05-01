@@ -1,4 +1,4 @@
-# Emotion Predictor Machine Learning Project
+# Loan Predictor Machine Learning Project
 
 By: _**Nadia Richards, Jake Azus, Noah Goldstein, Perry Reynolds**_
 ## Background
