@@ -1,7 +1,0 @@
-Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area
-Jake ,Male,No,0,Graduate,No,3000,0,120,360,1,Urban
-Nadia,Female,No,1,Graduate,Yes,4000,0,141,360,1,Rural
-Noah,Male,No,0,Graduate,No,5000,0,267,360,1,Rural
-Perry,Male,Yes,2,Graduate,No,2000,0,95,360,0,Urban
-Perfect Candidate,Female,Yes,0,Graduate,No,12841,10968,50,360,1,Semiurban
-Horrible Candidate,Male,No,5,Not Graduate,Yes,1853,100,300,360,1,Rural
