@@ -45,7 +45,7 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 2. Random Forest: ~70%
 3. Decision Tree: ~80%
 
-#### Main Roadblocks While Developing Loan Status Predictor
+#### Dataset Exploration
 1. 
 2. 
 3. 
@@ -53,7 +53,6 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 #### Limitations to Our Data
 1. Limited size of model training dataset
 2. There were a sizeable amount of null values which had to be removed before training the model, so we lost some sample datapoints
-3. 
 
 #### Additional Thoughts to be Explored Further
 1. Explore additional independent variables
