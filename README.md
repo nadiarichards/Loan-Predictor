@@ -11,12 +11,13 @@ Today there are various facial recognition softwares that exist, but what's trul
 * Python
 * Jupyter Notebook
 * Pandas
-* Google Colab
-* Keras
-* Tensorflow
-* CSS
-* HTML
-* App Placeholder
+* Matplotlib
+* Sklearn
+* NumPy
+* Pickle
+* Logistic Regression
+* Decision Tree
+* Random Forest Classifier
 
 ## Machine Learning Model Details
 ---
