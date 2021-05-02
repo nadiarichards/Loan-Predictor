@@ -3,7 +3,11 @@
 By: _**Nadia Richards, Jake Azus, Noah Goldstein, Perry Reynolds**_
 ## Background
 ---
-Today there are various facial recognition softwares that exist, but what's truly missing is knowing the facial expressions that individuals make. Imagine knowing how an audience feels about a certain presentation or presenter based on their facial expression which can include: a Presidental speech, sporting events, a movie, standup comedy. The model that we have successfully built identifies an individual’s facial expression by taking a picture of them and using machine learning technologies to predict their emotion. 
+A good friend of ours named Perry, was graduating from Florida State and wanted to move to NYC. Upon graduation he decided that he and a couple friends wanted to buy an apartment in the city rather than rent. In order to do so, he wanted to take out a loan to cover his part of the apartment purchase price. 
+
+When applying for a loan, he spoke with his parents who told him that applying for a loan can affect your credit score. So, before applying for his loan he wanted to do some research to figure out if he'd get approved or not. This was the basis of our project exploration...
+
+We decided to analyze a set of 500+ samples with 12 independent attributes and the impending Y/N loan status of approval. We utilized this data to develop 3 different predictive machine learning models that could ultimately predict whether or not Perry would get his loan!
 
 ## Tools and Technology Used for Analysis
 ---
@@ -13,6 +17,9 @@ Today there are various facial recognition softwares that exist, but what's trul
 * Pandas
 * Matplotlib
 * Sklearn
+    * Logistic Regression
+    * Decision Trees
+    * Random Forest
 * NumPy
 * Pickle
 
@@ -26,30 +33,29 @@ Today there are various facial recognition softwares that exist, but what's trul
 ---
 **Loan Prediction Problem Dataset:** see dataset [HERE](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset)
 
-## Models used 
+## Predictive Models used
 1. Logistic Regression
 2. Random Forest
 3. Decision Tree
 
-
 ## Summary of Findings
 ---
 #### Key Model Statistics From Emotion Predictor
-1. Logistic Regression - 
-2. Random Forest - 
-3. Decision Tree - 
-#### Main Roadblocks While Developing Emotion Predictor
+1. Logistic Regression: ~80%
+2. Random Forest: ~70%
+3. Decision Tree: ~80%
+
+#### Main Roadblocks While Developing Loan Status Predictor
 1. 
 2. 
 3. 
+
 #### Limitations to Our Data
-1. 
-2. 
+1. Limited size of model training dataset
+2. There were a sizeable amount of null values which had to be removed before training the model, so we lost some sample datapoints
 3. 
+
 #### Additional Thoughts to be Explored Further
-1. 
-2. 
-3. 
-4. 
-5. 
- 
+1. Explore additional independent variables
+2. Integrate geographic locations to the dataset
+3. Further explore the types of loans being given (i.e., risky business venture, cars, property, etc.)
