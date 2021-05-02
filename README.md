@@ -15,9 +15,6 @@ Today there are various facial recognition softwares that exist, but what's trul
 * Sklearn
 * NumPy
 * Pickle
-* Logistic Regression
-* Decision Tree
-* Random Forest Classifier
 
 ## Machine Learning Model Details
 ---
