@@ -31,8 +31,6 @@ Today there are various facial recognition softwares that exist, but what's trul
 2. Random Forest
 3. Decision Tree
 
-Most successful with 84% accuracy was a logistic regression model.
-
 
 ## Summary of Findings
 ---
