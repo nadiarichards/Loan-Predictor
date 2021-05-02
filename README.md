@@ -27,7 +27,7 @@ Today there are various facial recognition softwares that exist, but what's trul
 
 ## Data Source
 ---
-**FER-2013, Learn Facial Expressions From an Image:** see dataset [HERE](https://www.kaggle.com/msambare/fer2013?select=train)
+**Loan Prediction Problem Dataset:** see dataset [HERE](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset)
 
 ## Models used 
 1. Logistic Regression
@@ -36,22 +36,13 @@ Today there are various facial recognition softwares that exist, but what's trul
 
 Most successful with 84% accuracy was a logistic regression model.
 
-## Expressions Analyzed 
----
-* Angry
-* Disgust
-* Fear
-* Happy
-* Neutral
-* Sad
-* Surprise
 
 ## Summary of Findings
 ---
 #### Key Model Statistics From Emotion Predictor
-1. Logistic Regression
-2. Random Forest
-3. Decision Tree
+1. Logistic Regression - 
+2. Random Forest - 
+3. Decision Tree - 
 #### Main Roadblocks While Developing Emotion Predictor
 1. 
 2. 
