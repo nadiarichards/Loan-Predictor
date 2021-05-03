@@ -46,7 +46,7 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 3. Decision Tree: ~80%
 
 #### Dataset Exploration
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/13200513/116893879-77367580-abff-11eb-99e2-f79c5d491cfd.png">
 </p>
 
