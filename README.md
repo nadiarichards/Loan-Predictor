@@ -52,6 +52,8 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 <img align="right" width="400" height="350" src="https://user-images.githubusercontent.com/13200513/116894161-c1b7f200-abff-11eb-940c-0ed349e948df.png">
 </p>
 
+<br>
+
 #### Limitations to Our Data
 1. Limited size of model training dataset
 2. There were a sizeable amount of null values which had to be removed before training the model, so we lost some sample datapoints
