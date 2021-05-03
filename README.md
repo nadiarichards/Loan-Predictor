@@ -46,8 +46,8 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 3. Decision Tree: ~80%
 
 #### Dataset Exploration
-1. 
-2. 
+1. ![loans_awarded_byLoanAmount](https://user-images.githubusercontent.com/13200513/116887519-69312680-abf8-11eb-991a-c20a4e562af0.png)
+2. ![loans_awarded_byGender](https://user-images.githubusercontent.com/13200513/116887575-751ce880-abf8-11eb-952f-6e0046276277.png)
 3. 
 
 #### Limitations to Our Data
