@@ -47,12 +47,12 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 
 #### Dataset Exploration
 ---
-<p>
-<img align="center" width="400" height="350" src="https://user-images.githubusercontent.com/13200513/116893879-77367580-abff-11eb-99e2-f79c5d491cfd.png">
+<p align="center">
+<img width="500" height="350" src="https://user-images.githubusercontent.com/13200513/116893879-77367580-abff-11eb-99e2-f79c5d491cfd.png">
 </p>
 
-<p>
-<img align="center" width="400" height="350" src="https://user-images.githubusercontent.com/13200513/116894161-c1b7f200-abff-11eb-940c-0ed349e948df.png">
+<p align="center">
+<img  width="500" height="350" src="https://user-images.githubusercontent.com/13200513/116894161-c1b7f200-abff-11eb-940c-0ed349e948df.png">
 </p>
 
 
