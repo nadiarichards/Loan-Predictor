@@ -49,6 +49,7 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 ---
 <p align="center"> <img width="500" height="400" src="https://user-images.githubusercontent.com/13200513/116893879-77367580-abff-11eb-99e2-f79c5d491cfd.png"> <img  width="500" height="400" src="https://user-images.githubusercontent.com/13200513/116894161-c1b7f200-abff-11eb-940c-0ed349e948df.png">  </p> 
 
+---
 
 #### Limitations to Our Data
 1. Limited size of model training dataset
