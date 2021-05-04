@@ -25,9 +25,9 @@ We decided to analyze a set of 500+ samples with 12 independent attributes and t
 
 ## Machine Learning Model Details
 ---
-* Developed a Convolutional Neural Network (CNN) to analyze emotions
-* Trained model using approximately 28,000 grayscale emotion images
-* Tested model using approximately 7,000 grayscale emotion images  
+* Developed 3 machine learning models: logistic regression, decision trees, and random forest
+* Analyzed 614 loan instances across 12 variables
+* Trained and tested all 3 models with a 70% - 30% train, test split 
 
 ## Data Source
 ---
